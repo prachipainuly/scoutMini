@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddef0903-fbf3-47ff-8f53-52f3ca315097" name="Changes" comment="CHORE: Added basic code and dependencies">
+      <change afterPath="$PROJECT_DIR$/github" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github.pub" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713877221503</updated>
       <workItem from="1713877222132" duration="34000" />
-      <workItem from="1713877260702" duration="1965000" />
+      <workItem from="1713877260702" duration="3295000" />
     </task>
     <task id="LOCAL-00001" summary="CHORE: Added basic code and dependencies">
       <option name="closed" value="true" />
