@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddef0903-fbf3-47ff-8f53-52f3ca315097" name="Changes" comment="CHORE: Added basic code and dependencies">
-      <change afterPath="$PROJECT_DIR$/github" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github.pub" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ddef0903-fbf3-47ff-8f53-52f3ca315097" name="Changes" comment="CHORE: Added basic code and dependencies" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "prachipainuly"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prachipainuly&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/prachipainuly/scoutMini.git",
-    "accountId": "c592fe02-da5a-4d1b-99f1-96745e239e19"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prachipainuly/scoutMini.git&quot;,
+    &quot;accountId&quot;: &quot;c592fe02-da5a-4d1b-99f1-96745e239e19&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -58,6 +54,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -104,6 +101,7 @@
       <updated>1713877221503</updated>
       <workItem from="1713877222132" duration="34000" />
       <workItem from="1713877260702" duration="3295000" />
+      <workItem from="1713880571790" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="CHORE: Added basic code and dependencies">
       <option name="closed" value="true" />
